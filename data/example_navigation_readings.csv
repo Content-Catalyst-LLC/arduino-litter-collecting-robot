@@ -1,0 +1,8 @@
+timestamp_seconds,distance_cm,action
+0,42,move_forward
+5,31,move_forward
+10,22,move_forward
+15,14,collect_object
+20,28,move_forward
+25,18,move_forward
+30,13,collect_object

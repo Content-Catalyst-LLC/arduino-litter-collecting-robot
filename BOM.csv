@@ -1,0 +1,13 @@
+Component,Example,Qty,Notes
+Arduino Uno,ATmega328P,1,Arduino Nano also acceptable
+L298N Motor Driver,L298N module,1,For dual motor control
+DC Gear Motor,Small geared DC motor,2,Left and right drive
+Robot Chassis,2-wheel chassis,1,With caster or support wheel
+Ultrasonic Sensor,HC-SR04,1,For proximity detection
+Servo Motor,Standard hobby servo,1,For gripper actuation
+Robotic Gripper,Small claw,1,Compatible with servo
+Battery Pack,7.4V Li-ion recommended,1,Ensure sufficient current for motors and servo
+Breadboard,Standard,1,Optional depending on assembly method
+Jumper Wires,Male/Female,10,As needed
+Line Tracking Sensors,IR sensors,2,Optional
+Bluetooth or Wi-Fi Module,HC-05 or ESP-class module,1,Optional
